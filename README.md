@@ -11,7 +11,7 @@ The data was downloaded from https://www.gunviolencearchive.org/reports in separ
 I examined various aspects of gun violence. Here are some of the key points:
 
 1) The Las Vegas country music event shooting in 2017 and the Orlando nightclub shooting in 2016 are the top 2 incidents with the most number killed and number injured. These two incidents are outliers
-2) # Injured and # Killed have a correlation of 0.64. Of the 2373 incidents, there are 1980 incidents where the # Injured is greater than # Killed.
+2) The # Injured and # Killed have a correlation of 0.64. Of the 2373 incidents, there are 1980 incidents where the # Injured is greater than # Killed.
 3) There are 4 locations where mass shootings happened twice during the span of the time series.
 4) Hawaii, New Hampshire and North Dakota are the only states with no mass shooting incident.
 5) Chicago is the top city with the most incidents, # Injured and # Killed.
